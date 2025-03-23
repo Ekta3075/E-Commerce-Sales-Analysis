@@ -17,6 +17,7 @@ This Power BI project provides an in-depth analysis of e-commerce sales data, of
 ● Shipping Mode Analysis: Sales based on various shipping methods.
 
 
+
 📂 Files in Repository:-
 
 ● Ecommerce_Sales_Analysis.pbix - Power BI file containing the dashboard.
@@ -26,6 +27,7 @@ This Power BI project provides an in-depth analysis of e-commerce sales data, of
 ● Screenshot.png - A preview of the dashboard.
 
 ● KeyInsights_SalesData.docx - Key insights of this project.
+
 
 
 🗂 Dataset Information:-
@@ -39,6 +41,7 @@ The dataset consists of the following key attributes:
 ● Customer Details (Country, State, Market)
 
 ● Shipping Mode and Shipping Cost
+
 
 
 🚀 How to Use:-
