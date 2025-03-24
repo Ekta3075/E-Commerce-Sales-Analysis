@@ -1,50 +1,55 @@
-E-Commerce Sales Analysis
+# E-Commerce Sales Analysis
 
-📌 Project Overview:-
+## Project Overview:-
 
 This Power BI project provides an in-depth analysis of e-commerce sales data, offering insights into sales performance across different regions, product categories, and shipping modes. The dashboard visualizes key metrics such as total sales, profit, quantity sold, and shipping costs.
 
-📊 Features:-
+## Features:-
 
-● Sales Analysis: Total sales and profit overview.
+1) **Sales Analysis**
+   - Total sales and profit overview.
 
-● Sales by Country & State: Geographical distribution of sales.
+2) **Sales by Country & State**
+   - Geographical distribution of sales.
 
-● Category-wise Sales: Performance of different product categories.
+3) **Category-wise Sales**
+   - Performance of different product categories.
 
-● Market Analysis: Sales comparison across different markets.
+4) **Market Analysis**
+   - Sales comparison across different markets.
 
-● Shipping Mode Analysis: Sales based on various shipping methods.
-
-
-
-📂 Files in Repository:-
-
-● Ecommerce_Sales_Analysis.pbix - Power BI file containing the dashboard.
-
-● sales_data.xlsx - The dataset used for analysis.
-
-● Screenshot.png - A preview of the dashboard.
-
-● KeyInsights_SalesData.docx - Key insights of this project.
+5) **Shipping Mode Analysis**
+   - Sales based on various shipping methods.
 
 
 
-🗂 Dataset Information:-
+## Files in Repository:-
+
+1) Ecommerce_Sales_Analysis.pbix - Power BI file containing the dashboard.
+
+2) sales_data.xlsx - The dataset used for analysis.
+
+3) Screenshot.png - A preview of the dashboard.
+
+4) KeyInsights_SalesData.docx - Key insights of this project.
+
+
+
+## Dataset Information:-
 
 The dataset consists of the following key attributes:
 
-● Order ID, Product, Category, Sub-Category
+1) Order ID, Product, Category, Sub-Category
 
-● Sales, Profit, Quantity Sold
+2) Sales, Profit, Quantity Sold
 
-● Customer Details (Country, State, Market)
+3) Customer Details (Country, State, Market)
 
-● Shipping Mode and Shipping Cost
+4) Shipping Mode and Shipping Cost
 
 
 
-🚀 How to Use:-
+## How to Use:-
 
 1) Download the Ecommerce_Sales_Analysis.pbix file.
 
